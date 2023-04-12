@@ -1,7 +1,7 @@
-画像をコピペ
+<img width="821" alt="image" src="https://user-images.githubusercontent.com/99580997/231452016-87213e92-65a5-4ddd-b88f-d3aca95a26a4.png">
 
 # compornent（共通部品）
-- 説明
+- 画像サイズの異なるものも同じ比率で表現されるようになる。
 
 # w3c html/css ck
 - confirmed or unconfirmed
