@@ -1,0 +1,13 @@
+@use "global" as *;
+
+figure {
+    position: relative;
+    padding-top: 56.25%;
+    overflow: hidden;
+}
+
+figure>img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
